@@ -5,7 +5,7 @@
 ***
 ### 先说说微信统计好友的实现
 
-参考文档<a>用python玩转微信<url="http://www.cnblogs.com/feixuelove1009/p/6950102.html"></a>
+参考文档<a href="http://www.cnblogs.com/feixuelove1009/p/6950102.html">用python玩转微信</a>
 
 我们登录---获取好友信息----然后统计男女----发送给好友
 
